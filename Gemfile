@@ -1,4 +1,4 @@
-source 'https://ruby.taobao.org'
+source 'http://mirrors.aliyun.com/rubygems/'
 
 ruby '2.2.3'
 #ruby '2.2.2'
